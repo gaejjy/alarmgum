@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical" >
+
+	<!-- Time -->
+	<LinearLayout
+		android:id="@+id/setproductspace"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_gravity="center_horizontal"
+		android:paddingLeft="12dp"
+		android:paddingRight="12dp"
+		android:paddingTop="10dp"
+		android:paddingBottom="10dp">
+		<TextView
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:textSize="15sp"
+			android:text="먼저 가전제품의 마이크 부분에 디바이스를 붙여주세요"
+			android:textAlignment="center"/>
+	</LinearLayout>
+
+	<TextView
+		android:id="@+id/product_name_textview"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:textSize="20sp"
+		android:text="가전제품이름"/>
+	<EditText
+		android:id="@+id/product_name_edittext"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content" />
+
+
+
+	<!-- 구분선 -->
+	<TextView android:background="#80888888" android:layout_height="2dip"  android:layout_width="fill_parent"
+		android:id="@+id/anarm_set_d2" android:layout_below="@id/setproductspace" />
+
+	<TextView
+		android:id = "@+id/devicenametextview"
+		android:layout_below="@id/anarm_set_d2"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textColor="#000000"
+		android:textSize="20sp"
+		android:text="디바이스이름"
+		></TextView>
+	<!-- Button 요일 설정 -->
+	<LinearLayout
+		android:orientation="horizontal"
+		android:id = "@+id/week_button"
+		android:layout_below="@id/devicenametextview"
+		android:layout_width="fill_parent"
+		android:layout_height="50dip">
+		<EditText
+			android:id="@+id/devicenameedittext"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent" />
+
+	</LinearLayout>
+
+
+	<TextView android:background="#80888888" android:layout_height="2dip"  android:layout_width="fill_parent"
+		android:id="@+id/anarm_set_d3" android:layout_below="@id/week_button" />
+
+	<RelativeLayout
+		android:id="@+id/alarm_set_l2"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:background="@android:drawable/list_selector_background"
+		android:clickable="true"
+		android:focusable="true"
+		android:layout_below="@id/anarm_set_d3"
+		>
+		<TextView
+			android:id="@+id/ringtone"
+			android:layout_alignParentTop="true"
+			android:layout_alignParentLeft="true"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:minHeight="60dip"
+			android:background="@android:drawable/list_selector_background"
+			android:clickable="true"
+			android:focusable="true"
+			android:paddingTop="10dp"
+			android:paddingLeft="5dp"
+			android:textColor="#000000"
+			android:textSize="20sp"
+			android:text="벨소리"
+			/>
+	</RelativeLayout>
+	<!-- 구분선 -->
+	<TextView android:background="#80888888" android:layout_height="2dip"  android:layout_width="fill_parent"
+		android:id="@+id/anarm_set_d4" android:layout_below="@id/alarm_set_l2" />
+
+
+	<!-- 진동 -->
+	<RelativeLayout
+		android:id="@+id/alarm_set_l3"
+		android:layout_below="@id/anarm_set_d4"
+		android:layout_width="fill_parent"
+		android:layout_height="60dip"
+		>
+		<TextView
+			android:id="@+id/alarm_set_l3_title"
+			android:layout_alignParentLeft="true"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:paddingLeft="5dp"
+			android:layout_centerVertical="true"
+			android:textColor="#000000"
+			android:textSize="20sp"
+			android:text="진동"
+			/>
+		<CheckBox
+			android:id="@+id/alarm_set_vibrate"
+			android:layout_alignParentRight="true"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_centerVertical="true"
+			/>
+	</RelativeLayout>
+    <LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+
+		<ImageView
+			android:layout_width="match_parent"
+			android:layout_height="120dp"
+			android:id="@+id/itemphoto"
+			/>
+	</LinearLayout>
+
+	<!-- Button 설정 완료, 해제 버튼-->
+	<LinearLayout
+		android:id = "@+id/setCancelButton"
+		android:orientation = "horizontal"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+
+		android:gravity="bottom">
+
+	</LinearLayout>
+	<Button
+		android:id = "@+id/setphoto"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="사진등록하기"
+		android:layout_alignParentBottom="true"
+		android:layout_toEndOf="@+id/time_picker"></Button>
+
+	<Button
+		android:id = "@+id/set"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="완료"
+		android:layout_alignParentBottom="true"
+		android:layout_toEndOf="@+id/time_picker"></Button>
+
+
+
+</LinearLayout>

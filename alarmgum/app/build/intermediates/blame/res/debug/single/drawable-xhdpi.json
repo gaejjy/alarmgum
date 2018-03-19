@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alarmreceive.png",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable-xhdpi\\alarmreceive.png"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\clock.png",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable-xhdpi\\clock.png"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\clock_on.png",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable-xhdpi\\clock_on.png"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alarm_cancel.png",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable-xhdpi\\alarm_cancel.png"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\addalarmpush.png",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable-xhdpi\\addalarmpush.png"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\delete.png",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable-xhdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\target.png",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable-xhdpi\\target.png"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\clock_off.png",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable-xhdpi\\clock_off.png"
+    }
+]

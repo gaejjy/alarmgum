@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_cancel.xml",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\layout\\alarm_cancel.xml"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_row.xml",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\layout\\alarm_row.xml"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_receiver2.xml",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\layout\\alarm_receiver2.xml"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarmset.xml",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\layout\\alarmset.xml"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_device_name.xml",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\layout\\adapter_device_name.xml"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testalramactivity.xml",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\layout\\testalramactivity.xml"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm.xml",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\layout\\alarm.xml"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settings.xml",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_dummy.xml",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\layout\\fragment_main_dummy.xml"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\intro.xml",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\layout\\intro.xml"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_list.xml",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\layout\\activity_device_list.xml"
+    }
+]

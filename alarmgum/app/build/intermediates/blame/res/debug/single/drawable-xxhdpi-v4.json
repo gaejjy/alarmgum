@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\introimage.png",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable-xxhdpi\\introimage.png"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_new.jpg",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable-xxhdpi\\icon_new.jpg"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\doors.jpg",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable-xxhdpi\\doors.jpg"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\notification_image.jpg",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable-xxhdpi\\notification_image.jpg"
+    }
+]

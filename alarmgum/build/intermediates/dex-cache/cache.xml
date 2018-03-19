@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\MoonJeein\Desktop\AlarmGumList\BluetoothChat7\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\MoonJeein\Desktop\AlarmGumList\BluetoothChat7\app\build\intermediates\pre-dexed\debug\classes-82f7b75949a57156f8e24fbec7c785c0c284a9ac.jar" />
+    </item>
+    <item
+        jar="E:\AndroidWork\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\MoonJeein\Desktop\AlarmGumList\BluetoothChat7\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-8b2885279de6b83fb6be47f438ea7f0f2f93e5ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\MoonJeein\Desktop\AlarmGumList\BluetoothChat7\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\MoonJeein\Desktop\AlarmGumList\BluetoothChat7\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-7e3927b53abef99574e20c581bc10752a110840a.jar" />
+    </item>
+
+</items>

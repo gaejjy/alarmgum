@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hardcopy.btchat"
+    android:versionCode="2"
+    android:versionName="1.0.2" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon_new"
+        android:label="AlarmGum"
+        android:theme="@style/AppBaseTheme" >
+
+        <!-- Activity -->
+        <activity android:name="com.hardcopy.btchat.IntroActivity" >
+        </activity>
+        <activity
+            android:name="com.hardcopy.btchat.MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="AlarmGum"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.hardcopy.btchat.DeviceListActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="연결할 디바이스를 선택해주세요"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+        <activity android:name="com.hardcopy.btchat.alarm" />
+        <activity android:name="com.hardcopy.btchat.alarmSet" />
+        <activity android:name="com.hardcopy.btchat.testalrampage" />
+
+        <!-- Service -->
+        <service
+            android:name="com.hardcopy.btchat.service.BTCTemplateService"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:icon="@drawable/icon_new"
+            android:label="AlarmGum Service" >
+        </service>
+    </application>
+
+</manifest>

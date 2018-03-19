@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gumwall.PNG",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable\\gumwall.PNG"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settingsimage.PNG",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable\\settingsimage.PNG"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\form_button_selector.xml",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable\\form_button_selector.xml"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarmpagemessageicon.PNG",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable\\alarmpagemessageicon.PNG"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarmpagedeviceicon.PNG",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable\\alarmpagedeviceicon.PNG"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addalarmnew.PNG",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable\\addalarmnew.PNG"
+    },
+    {
+        "merged": "C:\\BluetoothChat7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarmpageproducticon.PNG",
+        "source": "C:\\BluetoothChat7\\app\\src\\main\\res\\drawable\\alarmpageproducticon.PNG"
+    }
+]
